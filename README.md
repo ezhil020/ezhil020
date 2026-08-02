@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=280&amp;section=header&amp;text=EZHILVENDAN%20B%20K&amp;fontSize=55&amp;fontColor=C9A7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Agentic%20AI%20%26%20Full%20Stack%20Engineer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=280&amp;section=header&amp;text=EZHILVENDAN%20B%20K&amp;fontSize=55&amp;fontColor=C9A7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Engineer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=B39DDB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Agentic+AI+Systems;LangGraph+%2B+Multi-Agent+Orchestration;Full+Stack+Product+Engineer;Turning+Ideas+Into+Production" alt="Typing SVG" />
@@ -50,13 +50,11 @@
 
 ### 👋 Hi, I'm Ezhilvendan
 
-I'm a software developer passionate about building **intelligent, agentic systems** that go beyond simple automation — coordinating multiple AI agents to solve real workflow problems end to end.
+I'm a software developer who likes building things end to end — from the database schema and API up to the interface someone actually clicks on. I care about the full picture: clean architecture, smooth user experience, and systems that hold up under real use, not just in a demo.
 
-My experience spans **conversational AI platforms, multi-agent orchestration with LangGraph, and full stack product engineering**, with hands-on work integrating speech, language, and recommendation models into production-style pipelines.
+Recently a lot of my work has pulled me toward **AI-agent systems** — teaching multiple agents to coordinate on a task instead of relying on one big model to do everything. It's an extension of the same instinct that drew me to full stack development in the first place: taking something complex and turning it into a system that actually works.
 
-I enjoy taking a product from a rough idea to a working system — designing the architecture, wiring up the AI layer, and shipping a clean, usable interface around it.
-
-> *"Good agents don't replace engineering — they extend what one engineer can build."*
+Outside of that, I'm just someone who enjoys the process — sketching an idea, building it, breaking it, and making it better.
 
 </td>
 <td width="38%" valign="top">
@@ -66,9 +64,7 @@ I enjoy taking a product from a rough idea to a working system — designing the
 - 🎓 M.Sc Software Systems (Integrated), CIT
 - 📍 Coimbatore, Tamil Nadu, India
 - 💼 Ex-Intern @ Infinijith Technology
-- 🤖 Agentic AI · LangGraph · Multi-Agent Systems
-- 🏆 CodeOlympics 2025 — Winner
-- 🎯 CIT SPARK Grant 2024 — Finalist
+- 🧑‍💻 Full Stack Developer · Agentic AI & Automation
 
 </td>
 </tr>
@@ -245,7 +241,7 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ezhil020&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;icon_color=8a2be2&amp;text_color=c9c9c9&amp;count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhil020&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=8a2be2&amp;fire=b39ddb&amp;currStreakLabel=b39ddb" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=ezhil020&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=8a2be2&amp;fire=b39ddb&amp;currStreakLabel=b39ddb" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil020&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;text_color=c9c9c9" width="49%"/>
 
@@ -298,16 +294,16 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 <td width="50%" valign="top">
 
 ### 🔭 Learning
-- Advanced multi-agent orchestration patterns
-- Production-grade LLM application design
-- Distributed backend architecture
+- System design for scalable, production-grade backends
+- Modern React patterns and performance optimization
+- Advanced LLM orchestration and agent design
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛠️ Building
-- Agentic AI products with real-world automation impact
-- Full stack platforms with strong UX and clean architecture
+- Full stack products with clean, scalable architecture
+- AI-assisted tools that solve everyday practical problems
 
 </td>
 </tr>
@@ -315,8 +311,8 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 <td width="50%" valign="top">
 
 ### 🔬 Exploring
-- Retrieval-augmented generation (RAG) pipelines
-- Voice-first and conversational AI interfaces
+- Retrieval-augmented generation (RAG) and agent memory
+- Developer tooling and workflow automation
 
 </td>
 <td width="50%" valign="top">
