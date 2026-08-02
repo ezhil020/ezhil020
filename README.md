@@ -240,10 +240,10 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezhil020&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;icon_color=8a2be2&amp;text_color=c9c9c9&amp;count_private=true" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=ezhil020&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;icon_color=8a2be2&amp;text_color=c9c9c9&amp;count_private=true" width="49%"/>
 <img src="https://streak-stats.demolab.com/?user=ezhil020&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=8a2be2&amp;fire=b39ddb&amp;currStreakLabel=b39ddb" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil020&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;text_color=c9c9c9" width="49%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ezhil020&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;text_color=c9c9c9" width="49%"/>
 
 </div>
 
@@ -255,7 +255,7 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ezhil020&amp;theme=discord&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;row=1" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=ezhil020&amp;theme=discord&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;row=1" />
 
 </div>
 
@@ -312,7 +312,7 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 ### 🔬 Exploring
 - Retrieval-augmented generation (RAG) and agent memory
-- Developer tooling and workflow automation
+- Better dev tooling for everyday, repetitive engineering tasks
 
 </td>
 <td width="50%" valign="top">
