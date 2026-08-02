@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=EZHILVENDAN%20B%20K&fontSize=55&fontColor=C9A7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Agentic%20AI%20%26%20Full%20Stack%20Engineer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=280&amp;section=header&amp;text=EZHILVENDAN%20B%20K&amp;fontSize=55&amp;fontColor=C9A7FF&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Developer%20%7C%20Agentic%20AI%20%26%20Full%20Stack%20Engineer&amp;descAlignY=55&amp;descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=B39DDB&center=true&vCenter=true&width=650&lines=Building+Agentic+AI+Systems;LangGraph+%2B+Multi-Agent+Orchestration;Full+Stack+Product+Engineer;Turning+Ideas+Into+Production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=26&amp;duration=3000&amp;pause=800&amp;color=B39DDB&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Building+Agentic+AI+Systems;LangGraph+%2B+Multi-Agent+Orchestration;Full+Stack+Product+Engineer;Turning+Ideas+Into+Production" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/M.Sc-Software_Systems_(Integrated)-6A0DAD?style=flat-square&logo=google-scholar&logoColor=white)
+![Degree](https://img.shields.io/badge/M.Sc-Software_Systems_(Integrated)-6A0DAD?style=flat-square&logo=googlescholar&logoColor=white)
 ![University](https://img.shields.io/badge/Coimbatore_Institute_of_Technology-4B0082?style=flat-square&logo=googleclassroom&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Coimbatore,_Tamil_Nadu,_India-8A2BE2?style=flat-square&logo=mapbox&logoColor=white)
 
 <br/>
 
 <a href="https://linkedin.com/in/ezhil-vendan">
-  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 <a href="mailto:ezhilvendan13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-4B0082?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" />
 </a>
 <a href="https://github.com/ezhil020">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br/><br/>
@@ -38,30 +38,52 @@
 
 ## 🧠 About Me
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/mayankk2308/mayankk2308/master/gifs/handshake.gif" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="380"/>
+</div>
 
-```yaml
-engineer:
-  name: "Ezhilvendan B K"
-  role: "Software Developer — Agentic AI & Full Stack Engineering"
-  focus:
-    - Multi-Agent Systems & Workflow Orchestration (LangGraph)
-    - Applied AI/ML — Speech, NLU, Recommendation Systems
-    - Full Stack Product Development
-    - Automation-first, Product-driven Engineering
-  philosophy: "Building systems where AI agents and clean engineering work together"
-```
+<br/>
 
-I'm a software developer passionate about building **intelligent, agentic systems** that go beyond simple automation — coordinating multiple AI agents to solve real workflow problems end to end. My experience spans **conversational AI platforms, multi-agent orchestration with LangGraph, and full stack product engineering**, with hands-on work integrating speech, language, and recommendation models into production-style pipelines.
+<table>
+<tr>
+<td width="62%" valign="top">
+
+### 👋 Hi, I'm Ezhilvendan
+
+I'm a software developer passionate about building **intelligent, agentic systems** that go beyond simple automation — coordinating multiple AI agents to solve real workflow problems end to end.
+
+My experience spans **conversational AI platforms, multi-agent orchestration with LangGraph, and full stack product engineering**, with hands-on work integrating speech, language, and recommendation models into production-style pipelines.
 
 I enjoy taking a product from a rough idea to a working system — designing the architecture, wiring up the AI layer, and shipping a clean, usable interface around it.
 
-**🎯 Open To:**
+> *"Good agents don't replace engineering — they extend what one engineer can build."*
+
+</td>
+<td width="38%" valign="top">
+
+### ⚡ Quick Facts
+
+- 🎓 M.Sc Software Systems (Integrated), CIT
+- 📍 Coimbatore, Tamil Nadu, India
+- 💼 Ex-Intern @ Infinijith Technology
+- 🤖 Agentic AI · LangGraph · Multi-Agent Systems
+- 🏆 CodeOlympics 2025 — Winner
+- 🎯 CIT SPARK Grant 2024 — Finalist
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**🎯 Currently Open To:**
 
 ![Full Time](https://img.shields.io/badge/Full--Time-Software%20Development-6A0DAD?style=flat-square)
 ![AI](https://img.shields.io/badge/Agentic%20AI-Engineering-7B2FF7?style=flat-square)
 ![FullStack](https://img.shields.io/badge/Full%20Stack-Development-8A2BE2?style=flat-square)
 ![OpenSource](https://img.shields.io/badge/Open%20Source-Collaboration-B39DDB?style=flat-square)
+
+</div>
 
 <br/>
 
@@ -85,16 +107,18 @@ I enjoy taking a product from a rough idea to a working system — designing the
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🧩 Core Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
+| **Backend Engineering** | ⭐⭐⭐⭐⭐ | REST APIs and services built with FastAPI, Express.js, and Flask across multiple production-style projects |
+| **Full Stack Development** | ⭐⭐⭐⭐⭐ | End-to-end apps with React / Next.js frontends wired to backend services and databases |
 | **Agentic AI / Multi-Agent Systems** | ⭐⭐⭐⭐⭐ | LangGraph-based agent orchestration for conversational design generation and automated deployment pipelines |
+| **Databases & Data Modeling** | ⭐⭐⭐⭐ | Schema design and querying across PostgreSQL, MongoDB, SQLite, and Redis |
 | **Speech & NLU** | ⭐⭐⭐⭐ | Whisper for speech-to-text, Gemini for intent extraction and natural language understanding |
 | **Applied Machine Learning** | ⭐⭐⭐⭐ | Content-based filtering, cosine similarity ranking, LLM-based structured extraction from free text |
-| **NLP & Transformers** | ⭐⭐⭐ | Emotion analysis and adaptive scoring pipelines using Transformer models |
 | **Workflow Automation** | ⭐⭐⭐⭐ | Coordinated agent workflows automating end-to-end conversational IVR development lifecycle |
 
 </div>
@@ -202,23 +226,6 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🥇 **CodeOlympics 2025** | Winner — Coding Contest |
-| 🎯 **CIT SPARK Grant 2024** | Finalist |
-| 📜 **Oracle Agentic AI Foundations Associate** | Certification, 2026 |
-| 🎓 **Web Development Bootcamp** | Udemy Certification |
-
-</div>
-
-<br/>
-
----
-
 ## 📜 Certifications
 
 **Oracle**
@@ -237,10 +244,10 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ezhil020&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&icon_color=8a2be2&text_color=c9c9c9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhil020&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=b39ddb&currStreakLabel=b39ddb" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ezhil020&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;icon_color=8a2be2&amp;text_color=c9c9c9&amp;count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezhil020&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=8a2be2&amp;fire=b39ddb&amp;currStreakLabel=b39ddb" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil020&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=b39ddb&text_color=c9c9c9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezhil020&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=b39ddb&amp;text_color=c9c9c9" width="49%"/>
 
 </div>
 
@@ -252,7 +259,7 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ezhil020&theme=discord&no-frame=true&column=7&margin-w=10&margin-h=10&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=ezhil020&amp;theme=discord&amp;no-frame=true&amp;column=7&amp;margin-w=10&amp;margin-h=10&amp;row=1" />
 
 </div>
 
@@ -264,7 +271,7 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhil020&theme=react-dark&hide_border=true&bg_color=0d1117&color=b39ddb&line=8a2be2&point=ffffff" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezhil020&amp;theme=react-dark&amp;hide_border=true&amp;bg_color=0d1117&amp;color=b39ddb&amp;line=8a2be2&amp;point=ffffff" width="100%"/>
 
 </div>
 
@@ -286,23 +293,42 @@ Contributed to an agentic AI platform automating the conversational IVR developm
 
 ## 🎯 Current Focus
 
-```yaml
-current_focus:
-  learning:
-    - Advanced multi-agent orchestration patterns
-    - Production-grade LLM application design
-    - Distributed backend architecture
-  building:
-    - Agentic AI products with real-world automation impact
-    - Full stack platforms with strong UX and clean architecture
-  exploring:
-    - Retrieval-augmented generation (RAG) pipelines
-    - Voice-first and conversational AI interfaces
-  open_to:
-    - Full-time Software Development roles
-    - AI/Agentic Engineering opportunities
-    - Open source collaboration
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔭 Learning
+- Advanced multi-agent orchestration patterns
+- Production-grade LLM application design
+- Distributed backend architecture
+
+</td>
+<td width="50%" valign="top">
+
+### 🛠️ Building
+- Agentic AI products with real-world automation impact
+- Full stack platforms with strong UX and clean architecture
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 Exploring
+- Retrieval-augmented generation (RAG) pipelines
+- Voice-first and conversational AI interfaces
+
+</td>
+<td width="50%" valign="top">
+
+### 🎯 Open To
+- Full-time Software Development roles
+- AI / Agentic Engineering opportunities
+- Open source collaboration
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -324,8 +350,8 @@ current_focus:
 
 <div align="center">
 
-*"Good agents don't replace engineering — they extend what one engineer can build."*
+*"Great engineering is invisible — it just works, at scale, under pressure."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=150&amp;section=footer"/>
 
 </div>
